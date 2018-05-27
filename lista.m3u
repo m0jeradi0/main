@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:0, Radio ESKA Grudziądz 90,6 FM
+http://waw.ic.smcdn.pl/t081-1.mp3?timestamp=1527437102&hash=62f2d5c27843ab6a786b3696be69fa83
+#EXTINF:0,rad1
+http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
+#EXTINF:0,rad2
+http://waw.ic.smcdn.pl/t081-1.mp3?timestamp=1527437102&hash=62f2d5c27843ab6a786b3696be69fa83
